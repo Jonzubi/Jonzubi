@@ -4,7 +4,7 @@
 
 I'm a passionate mobile developer and FullStack developer with over 4 years of experience. My main focus revolves around technologies related to JavaScript.
 
-## Featured Project
+## Featured Projects
 
 ### Amonaren Errezetak
 
