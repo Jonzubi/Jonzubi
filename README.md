@@ -10,6 +10,10 @@ I'm a passionate mobile developer and FullStack developer with over 4 years of e
 
 [Amonaren Errezetak](https://github.com/Jonzubi/amonaren_errezetak.git) is a social platform that brings together enthusiasts of Basque cuisine. It serves as a recipe hub for traditional Basque dishes, allowing users to share their favorite recipes, discover new ones, and connect with fellow foodies. Whether you're a seasoned chef or just starting out in the kitchen, Amonaren Errezetak offers a vibrant community and a treasure trove of culinary delights from the Basque region.
 
+### SecurScan (Work in Progress)
+
+[SecurScan](https://github.com/Jonzubi/secur-scan) is an ongoing project I'm currently working on. It's a mobile application developed using React Native for the front end, NestJS for the backend, and MongoDB as the database. While the repository is currently private as it's in the development process, I'm excited about its potential to enhance security measures. Stay tuned for updates!
+
 ## Types of Projects
 
 On my GitHub profile, you'll find a variety of projects including web applications, mobile applications, and games.
