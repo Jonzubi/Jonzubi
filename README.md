@@ -14,6 +14,11 @@ I'm a passionate mobile developer and FullStack developer with over 4 years of e
 
 [SecurScan](https://github.com/Jonzubi/secur-scan) is an ongoing project I'm currently working on. It's a mobile application developed using React Native for the front end, NestJS for the backend, and MongoDB as the database. While the repository is currently private as it's in the development process, I'm excited about its potential to enhance security measures. Stay tuned for updates!
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonzubi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+</p>
+
 ## Types of Projects
 
 On my GitHub profile, you'll find a variety of projects including web applications, mobile applications, and games.
