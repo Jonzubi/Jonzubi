@@ -31,9 +31,9 @@ Here are some of the key technologies and tech stacks that I frequently work wit
 <div align="center">
   <span>
     
-| **Programming Languages** | **Frontend Development** | **Backend Development** | **Databases** |
-| ------------------------- | ------------------------ | ---------------------- | ------------- |
-| <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript<br/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# | <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React<br/><img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Native | <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> NodeJS<br/><img src="https://img.icons8.com/color/48/000000/microsoft.png"/> .NET | <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL Server<br/><img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL<br/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB |
+| **Programming Languages** | **Frontend Development** | **Backend Development** | **Databases** | **Game Engine** |
+| ------------------------- | ------------------------ | ---------------------- | ------------- | --------------- |
+| <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript<br/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# | <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React<br/><img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Native<br/><img src="https://img.icons8.com/color/48/000000/react.png"/> ReactJS | <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> NodeJS<br/><img src="https://img.icons8.com/color/48/000000/microsoft.png"/> .NET | <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL Server<br/><img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL<br/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB | <img src="https://img.icons8.com/color/48/000000/unity.png"/> Unity |
   </span>
 </div>
 
