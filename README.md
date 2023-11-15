@@ -20,13 +20,20 @@ I'm a passionate mobile developer and FullStack developer with over 4 years of e
   <img src="https://github-readme-stats.vercel.app/api?username=Jonzubi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
 </p>
 
-## Types of Projects
+## Top Technologies & Tech Stacks
 
-On my GitHub profile, you'll find a variety of projects including web applications, mobile applications, and games.
+Here are some of the key technologies and tech stacks that I frequently work with:
 
-## Collaborations
+<div align="center">
+  <span>
+    
+| **Programming Languages** | **Frontend Development** | **Backend Development** | **Databases** |
+| ------------------------- | ------------------------ | ---------------------- | ------------- |
+| <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript<br/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# | <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React<br/><img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Native | <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> NodeJS<br/><img src="https://img.icons8.com/color/48/000000/dot-net.png"/> .NET | <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL Server<br/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB |
+  </span>
+</div>
+These technologies form the backbone of many of my projects, allowing me to create robust and efficient solutions. Feel free to explore my repositories to see these technologies in action!
 
-I'm always open to collaborations and contributions on my projects. If you have any ideas or suggestions, feel free to reach out!
 
 ## Contact
 
