@@ -31,7 +31,9 @@ I'm always open to collaborations and contributions on my projects. If you have 
 
 - [LinkedIn](https://www.linkedin.com/in/jon-zubizarreta-1884ab166/)
 
-Thank you for visiting my profile! I hope you find my projects interesting. Don't hesitate to contact me if you have any questions or suggestions.
+## Let's Connect!
+
+Thank you for visiting my profile! I hope you find my projects interesting. If you have any questions, suggestions, or just want to connect, feel free to reach out. Let's build something amazing together!
 
 
 
